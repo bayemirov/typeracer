@@ -1,0 +1,12 @@
+export default {
+  USER: {
+    LOGIN: 'LOGIN',
+    LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+    LOGIN_FAIL: 'LOGIN_FAIL'
+  },
+  TRACER: {
+    GET_TEXT: 'TEXT',
+    GET_TEXT_SUCCESS: 'GET_TEXT_SUCCESS',
+    GET_TEXT_FAIL: 'GET_TEXT_FAIL'
+  }
+}
